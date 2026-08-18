@@ -22,11 +22,9 @@ E-commerce fullstack. API REST, autenticação JWT, banco de dados, deploy autom
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=renandelfino013&show_icons=true&theme=dark)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renandelfino013&layout=compact&theme=dark)
+Veja minha atividade em [github.com/renandelfino013](https://github.com/renandelfino013)
 
 ---
 
