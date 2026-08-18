@@ -1,4 +1,4 @@
-# 👋 Renan Delfino
+#  Renan Delfino
 
 **Full Stack Developer** | JavaScript • Node.js • React • PostgreSQL
 
