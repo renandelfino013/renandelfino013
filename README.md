@@ -22,14 +22,6 @@ E-commerce fullstack. API REST, autenticação JWT, banco de dados, deploy autom
 
 ---
 
-
-## 🐍 Contribution Graph
-
-![snake gif](https://github.com/renandelfino013/renandelfino013/raw/output/github-contribution-grid-snake.gif)
-
-
----
-
 ## 💬 Contato
 
 📧 Email: renancontaps@gmail.com  
