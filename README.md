@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Renan Delfino
 
-<!--
-**renandelfino013/renandelfino013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** | JavaScript • Node.js • React • PostgreSQL
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/renandelfino)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/renandelfino013)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Tech Stack
+
+**Backend**: Node.js • Next.js • PostgreSQL • Docker • Vercel  
+**Frontend**: React • Next.js • JavaScript • CSS  
+**Tools**: Git • ESLint • Jest • Docker Compose
+
+---
+
+## 📌 Principais Projetos
+
+### 📦 [MyShop](https://github.com/renandelfino013/myshop)
+E-commerce fullstack. API REST, autenticação JWT, banco de dados, deploy automático.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=renandelfino013&show_icons=true&theme=dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renandelfino013&layout=compact&theme=dark)
+
+---
+
+## 💬 Contato
+
+📧 Email: renancontaps@gmail.com  
+💼 LinkedIn: [linkedin.com/in/renandelfino](https://linkedin.com/in/renandelf)                                                                        
