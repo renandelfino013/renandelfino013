@@ -22,9 +22,11 @@ E-commerce fullstack. API REST, autenticação JWT, banco de dados, deploy autom
 
 ---
 
-## 📊 GitHub Activity
 
-Veja minha atividade em [github.com/renandelfino013](https://github.com/renandelfino013)
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/renandelfino013/renandelfino013/raw/output/github-contribution-grid-snake.gif)
+
 
 ---
 
